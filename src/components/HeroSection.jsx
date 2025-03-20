@@ -4,7 +4,7 @@ export default function HeroSection() {
   return (
     <section className="px-5 md:px-32 flex flex-col lg:flex-row justify-center items-center my-10">
       <div className="flex flex-col gap-4 w-full md:w-1/2">
-        <h1 className="text-5xl lg:text-7xl font-semibold text-center lg:text-left">
+        <h1 className="text-5xl lg:text-sm font-semibold text-center lg:text-left">
           YOUR FEET DESERVE THE BEST
         </h1>
 
